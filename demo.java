@@ -11,3 +11,7 @@ class sample
 class v1
 {
 }
+class master
+{
+}
+
