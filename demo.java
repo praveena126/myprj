@@ -8,4 +8,6 @@ s.o.p()
 class sample
 {
 }
-
+class v1
+{
+}
