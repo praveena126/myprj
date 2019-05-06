@@ -9,3 +9,8 @@ void sub()
 {
 c=a-b
 }
+void mul()
+{
+c=a*b
+}
+
